@@ -22,3 +22,10 @@
         #p-background{
             background-color: rgb(0, 128, 255);
         }
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+
