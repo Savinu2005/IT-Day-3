@@ -18,7 +18,8 @@
             border: 50px solid black;
             border-radius: 50px;
             border-style: dashed;
-
+            
+            margin: 50px;
         }
     
         p {
@@ -45,6 +46,13 @@
         * {
             margin: 0;
             padding: 0;
+        }
+
+        body {
+            background-image: url('img/marmixer-moon-8855057_1920.jpg') ;
+            background-repeat: no-repeat;
+            background-size: cover; 
+            background-attachment: fixed; 
         }
 
 
